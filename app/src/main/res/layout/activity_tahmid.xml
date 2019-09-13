@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Tahmid">
+
+    <Button
+        android:layout_marginEnd="5dp"
+        android:layout_marginTop="5dp"
+        android:id="@+id/btn_reset2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="reset"
+        android:background="@drawable/reset"
+        android:layout_gravity="end|top"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_tahmid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="الْحَمْدُ لِلَّهِ"
+            android:textSize="50sp"/>
+
+        <TextView
+            android:id="@+id/tv_digit1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:layout_marginBottom="20dp"
+            android:textSize="50sp"/>
+
+
+        <Button
+            android:id="@+id/btn_press1"
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:textSize="30sp"
+            android:text="PRESS HERE"
+            android:paddingHorizontal="10dp"
+            android:background="@drawable/press"/>
+
+        <Button
+            android:id="@+id/btn_takbir"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Takbir"
+            android:visibility="gone"
+            android:layout_marginTop="50dp"
+            android:paddingHorizontal="10dp"
+            android:background="@drawable/press"/>
+    </LinearLayout>
+
+</LinearLayout>

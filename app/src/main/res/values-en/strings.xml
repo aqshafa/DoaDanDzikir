@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily Dhikr and Prayer</string>
+
+    <string name="DzikirPagi">Morning Dhikr</string>
+    <string name="DzikirPetang">Evening Dhikr</string>
+    <string name="DoaHarian">Daily Prayer</string>
+    <string name="DzikirSetelahSholat">Dhikr After Fardhu Prayer</string>
+    <string name="Tentang">About</string>
+    <string name="Bahasa">Change Language</string>
+    <string name="TentangPembuat">About Developer</string>
+    <string name="JudulNama">Name</string>
+    <string name="JudulTempatLahir">Birthplace</string>
+    <string name="JudulAlamat">Address</string>
+    <string name="JudulAsalSekolah">School</string>
+    <string name="JudulGmail">Email</string>
+    <string name="JudulWA">Whatsapp</string>
+    <string name="JudulInstagram">Instagram</string>
+    <string name="Nama"> : M Aqsha Munggaran</string>
+    <string name="TempatLahir"> : Jakarta, 10/06/06</string>
+    <string name="Alamat"> : Jl.Garuda II No.42</string>
+    <string name="AsalSekolah"> : IDN Boarding School</string>
+    <string name="Gmail"> : baksosayabulat@gmail.com</string>
+    <string name="WA"> : 62+ 821-3526-1018</string>
+    <string name="Instagram"> : aqshafaa</string>
+    <string name="JudulTentang">About Application</string>
+    <string name = "TentangAplikasi"> This application was created using the "Android Studio" application, an application commonly used by developers to create applications.
+                                    This application aims to help people memorize the Morning Prayer, Evening, Daily Prayer and Dhikr after prayer.
+                                    This application is made in approximately 3-4 days. Another feature in this application is that it can change the language, from Indonesian
+                                    to English, but only on the menu page and "About" </string>
+
+</resources>

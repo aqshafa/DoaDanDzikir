@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Doa dan Dzikir</string>
+
+    <string name="DzikirPagi">Dzikir Pagi</string>
+    <string name="DzikirPetang">Dzikir Petang</string>
+    <string name="DoaHarian">Doa Harian</string>
+    <string name="DzikirSetelahSholat">Dzikir Setelah Sholat Fardu</string>
+    <string name="Tentang">Tentang</string>
+    <string name="Bahasa">Ganti Bahasa</string>
+    <string name="TentangPembuat">Tentang Pembuat</string>
+    <string name="JudulNama">Nama</string>
+    <string name="JudulTempatLahir">Tempat lahir</string>
+    <string name="JudulAlamat">Alamat</string>
+    <string name="JudulAsalSekolah">Sekolah</string>
+    <string name="JudulGmail">Email</string>
+    <string name="JudulWA">Whatsapp</string>
+    <string name="JudulInstagram">Instagram</string>
+    <string name="Nama"> : M Aqsha Munggaran</string>
+    <string name="TempatLahir"> : Jakarta, 10/06/06</string>
+    <string name="Alamat"> : Jl.Garuda II No.42</string>
+    <string name="AsalSekolah"> : IDN Boarding School</string>
+    <string name="Gmail"> : baksosayabulat@gmail.com</string>
+    <string name="WA"> : 62+ 821-3526-1018</string>
+    <string name="Instagram"> : aqshafaa</string>
+    <string name="JudulTentang">Tentang Aplikasi</string>
+    <string name="TentangAplikasi">     Aplikasi ini dibuat dengan aplikasi "Android Studio", aplikasi yang biasa dipakai oleh developer untuk membuat aplikasi.
+                                    Aplikasi ini bertujuan untuk membantu orang-orang menghafalkan Dzikir Pagi,Petang,Doa Harian dan Dzikir setelah sholat.
+                                    Aplikasi ini dibuat sekitar kurang lebih 3-4 hari. Fitur lain di aplikasi ini adalah bisa merubah bahasa, dari bahasa indonesia
+                                    ke bahasa inggris, namun hanya di halaman menu dan "Tentang</string>
+
+</resources>
